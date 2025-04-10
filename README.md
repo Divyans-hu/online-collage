@@ -1,4 +1,6 @@
 # online-collage
+Add : Img-Collection.html to the link ur currently seeing in search to see as <index.html> isn't present.. So take care and chillllll
+
 html-css-jQuery beginner project
 
 Firstly: " Hello , World "
